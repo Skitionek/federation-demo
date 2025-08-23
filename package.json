@@ -16,8 +16,8 @@
     "concurrently": "latest"
   },
   "dependencies": {
-    "@apollo/gateway": "latest",
-    "apollo-server": "^2.5.1-alpha.1",
+    "@apollo/gateway": "2.0.0",
+    "apollo-server": "^3.13.0",
     "graphql": "latest"
   }
 }
